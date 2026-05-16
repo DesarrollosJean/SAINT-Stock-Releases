@@ -37,7 +37,3 @@ Protección avanzada
 | **Rendimiento** | `Rendimiento`, `Velocidad`, `Rápido`, `Performance`, `Speed` |
 | **Seguridad** | `Seguridad`, `Security`, `Protección`, `Protection`, `Safe` |
 | **Correcciones** | `Correcciones`, `Errores`, `Bugs`, `Fixes`, `Solucionado` |
-
-## Ejemplos prácticos
-
-### Ejemplo para v1.0.3
